@@ -1,0 +1,14 @@
+.title  {
+  color: red;
+  background-color: gray;
+  letter-spacing: 3px;
+  text-shadow: 3px 2px #000;
+  font : 150% georgia, palatino, serif;
+  font-style : italic;
+  margin : 30px 150px 50px 50px;
+  width : 15%;
+  text-transform : uppercase;
+
+
+
+} 
